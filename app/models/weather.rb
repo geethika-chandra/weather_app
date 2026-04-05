@@ -7,4 +7,4 @@ class Weather < ApplicationRecord
       false
     end
   end
-end   
+end     
